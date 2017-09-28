@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+jupyter = "*"
+nltk = "*"
+"scikit-learn" = "*"
+tweepy = "*"
+"python-decouple" = "*"
+pymongo = "*"
+"bs4" = "*"
+ipykernel = "*"
+pandas = "*"
+matplotlib = "*"
+ijson = "*"
+vincent = "*"
+
+
+[dev-packages]
